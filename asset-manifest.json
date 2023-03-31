@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/rpsls/static/css/main.ccfb955a.css",
+    "main.js": "/rpsls/static/js/main.c7061987.js",
+    "static/js/787.ec678abb.chunk.js": "/rpsls/static/js/787.ec678abb.chunk.js",
+    "static/media/rules.png": "/rpsls/static/media/rules.466d2e97240751e0d7ef.png",
+    "static/media/Rock.svg": "/rpsls/static/media/Rock.019d06b3792e3a56aa386b8a2b7c2cac.svg",
+    "static/media/qm.svg": "/rpsls/static/media/qm.aa84899c06a25c5298f53841adb2f830.svg",
+    "static/media/Scissors.svg": "/rpsls/static/media/Scissors.a9ff850e05ef6644ed659f141522f09d.svg",
+    "static/media/Paper.svg": "/rpsls/static/media/Paper.58cbc834973238ee8336e2ff6552e0c4.svg",
+    "static/media/Spock.svg": "/rpsls/static/media/Spock.de13e5971c5d457dfec3cee71e8261db.svg",
+    "static/media/Lizard.svg": "/rpsls/static/media/Lizard.1251d61e91c776aad99e934d5f2bedb6.svg",
+    "index.html": "/rpsls/index.html",
+    "main.ccfb955a.css.map": "/rpsls/static/css/main.ccfb955a.css.map",
+    "main.c7061987.js.map": "/rpsls/static/js/main.c7061987.js.map",
+    "787.ec678abb.chunk.js.map": "/rpsls/static/js/787.ec678abb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ccfb955a.css",
+    "static/js/main.c7061987.js"
+  ]
+}
